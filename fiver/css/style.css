@@ -1,0 +1,37 @@
+.btn2{
+    margin-top: 20px;
+    padding-left: 5%;
+}
+.btn1{
+    margin-top: 20px;
+    padding-left: 10%;
+}
+.box1{
+    border: 1px solid #000000;
+}
+
+.box1 h3{
+    padding-left: 60%;
+}
+.box2{
+    border: 1px solid #000000;
+}
+.box2 h3{
+    padding-left: 60%;
+}
+.box3{
+    border: 1px solid #000000;
+}
+.box3 h3{
+    padding-left: 58%;
+}
+
+#anim{
+    display: none;
+}
+#mine{
+    display: none;
+}
+#vegi{
+    display: none;
+}
